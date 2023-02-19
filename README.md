@@ -1,6 +1,6 @@
 # flutter_turkish_food_app_ui
 <div class="photo-container">
-  <img src="https://github.com/KLYCHUB/flutter_turkish_food_app_ui/blob/main/flutter_turkish_food_app_ui/ss/Screenshot_1676801142.png" height="320",width="180">
+  <img src="https://github.com/KLYCHUB/flutter_turkish_food_app_ui/blob/main/flutter_turkish_food_app_ui/ss/Screenshot_1676801142.png" height="480",width="270">
   <img src="foto2.jpg" alt="Foto 2">
   <img src="foto3.jpg" alt="Foto 3">
 </div>
